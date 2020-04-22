@@ -1,0 +1,15 @@
+{
+  "name": "ig-scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mannvender/anuchar-granth.git",
+  "author": "mannvenders <mannvenders@dewsolutions.in>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel journey/get-likes-from-tags.js",
+    "build": "parcel build journey/get-likes-from-tags.js"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
